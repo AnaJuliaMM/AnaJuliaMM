@@ -4,13 +4,9 @@
 
 
 ## 👩🏽‍💻About me! 
-
 - My name is **Ana Julia** and I'm 18 years old
 - I’m currently a student of System Analysis and Development
 - I'm a intern in 2rpnet
-  
-
-
 
 ## 🛠️Tools
 <div style="display: inline_block"><br>
