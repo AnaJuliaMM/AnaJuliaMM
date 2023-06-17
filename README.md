@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,3&height=20&section=header&fontColor=ffffff&fontSize=10&text=São%Paulo,Brazil" />
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=15232B&size=25&center=true&vCenter=true&width=1000&lines=Hi,+welcome+to+my+profile,it+is+good+to+have+you+here!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=15232B&size=30&center=true&vCenter=true&width=1000&lines=Hi,+welcome+to+my+profile,it+is+good+to+have+you+here!)](https://git.io/typing-svg)
 
 
 ## 👩🏽‍💻About me! 
