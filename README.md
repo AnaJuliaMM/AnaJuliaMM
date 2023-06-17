@@ -4,7 +4,7 @@
 
 
 ## 👩🏽‍💻About me! 
-- I’m currently a student of System Analysis and Development
+- I’m currently a student of System Analysis and Development and an intern at 2rpnet
 - I'm 18 years old
 - I'm from São Paulo, Brazil
 
