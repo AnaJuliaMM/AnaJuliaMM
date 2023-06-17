@@ -1,12 +1,12 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,3&height=20&section=header&fontColor=ffffff&fontSize=10&text=São%Paulo,Brazil" />
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=134f5c&size=35&center=true&vCenter=true&width=1000&lines=Hi,+welcome+to+my+profile,+good+to+have+you+here!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=15232B&size=25&center=true&vCenter=true&width=1000&lines=Hi,+welcome+to+my+profile,it+is+good+to+have+you+here!)](https://git.io/typing-svg)
 
 
 ## 👩🏽‍💻About me! 
-- I’m currently a student of System Analysis and Development
-- I'm a intern in 2rpnet
+I’m currently a student of System Analysis and Development, and here I publish the projects I have been developing during my gradution and internship in 2rpnet
 - I'm 18 years old
+- I'm from São Paulo, Brazil
 
 ## 🛠️Tools
 <div style="display: inline_block"><br>
