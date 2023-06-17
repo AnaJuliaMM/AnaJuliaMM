@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,3&height=80&section=header&fontColor=ffffff&fontSize=60" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,3&height=20&section=header&fontColor=ffffff&fontSize=10&text=São%Paulo,Brazil" />
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=134f5c&size=35&center=true&vCenter=true&width=1000&lines=Hi,+welcome+to+my+profile,+good+to+have+you+here!)](https://git.io/typing-svg)
 
@@ -8,10 +8,11 @@
 - My name is **Ana Julia** and I'm 18 years old
 - I’m currently a student of System Analysis and Development
 - I'm a intern in 2rpnet
+  
 
 
 
-## Tools
+## 🛠️Tools
 <div style="display: inline_block"><br>
   <img align="center" alt="Ana-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Ana-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -27,16 +28,16 @@
   <img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnaJuliaMM&layout=compact">
 </div>
 
-## Contact me
+## 📲Contact me
 <div> 
    <a href="https://www.linkedin.com/in/anajulia-mm" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:ana.martins_2004@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/mmartins_ana" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
 <br>
-🗺️ <strong>São Paulo, Brazil</strong>
 
- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=134f5c&height=120&section=footer"/>
+
+
 
   
 
