@@ -29,7 +29,8 @@
    <a href="https://www.linkedin.com/in/anajulia-mm" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:ana.martins_2004@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
 </div>
-
+</br>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,3&height=20&section=header&fontColor=ffffff&fontSize=10&text=São%Paulo,Brazil" />
 
 
 
