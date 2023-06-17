@@ -1,10 +1,13 @@
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,3&height=80&section=header&fontColor=ffffff&fontSize=60" />
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=134f5c&size=35&center=true&vCenter=true&width=1000&lines=Hi,+welcome+to+my+profile,+good+to+have+you+here!)](https://git.io/typing-svg)
 
 
-## Hi, I'm AnaJuliaMM, welcome to my profile! 👋
+## 👩🏽‍💻About me! 
 
-
-- 📚 I’m currently a student of System Analysis and Development
-- 👩🏽‍💻 I'm a intern in 2rpnet
+- My name is **Ana Julia** and I'm 18 years old
+- I’m currently a student of System Analysis and Development
+- I'm a intern in 2rpnet
 
 
 
@@ -30,7 +33,10 @@
   <a href = "mailto:ana.martins_2004@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/mmartins_ana" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
+<br>
+🗺️ <strong>São Paulo, Brazil</strong>
 
- 
+ <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=134f5c&height=120&section=footer"/>
+
   
 
