@@ -1,14 +1,14 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=15232B&size=30&center=true&vCenter=true&width=1000&lines=Hi,+welcome+to+my+profile,it+is+good+to+have+you+here!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=15232B&size=30&center=true&vCenter=true&width=1000&lines=👩‍💻+Hi,+welcome+to+my+profile,it+is+good+to+have+you+here!)](https://git.io/typing-svg)
 
 
-## 👩🏽‍💻About me! 
+### About me:
 - I’m currently a student of System Analysis and Development and an intern at 2rpnet
 - I'm 18 years old
-- I'm from São Paulo, Brazil 
+- I'm from São Paulo, Brazil <br>
 
-    
-## 🛠️Tools that I've been working with
+
+## Tools that I've been working with 🛠️
 <div style="display: inline_block"><br>
   <img align="center" alt="Ana-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Ana-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
