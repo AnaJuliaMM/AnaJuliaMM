@@ -22,6 +22,21 @@
 <div>
   <a href="https://github.com/AnaJuliaMM/">
   <img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnaJuliaMM&layout=compact">
+  <img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnaJuliaMM&theme=blue-green">
+</div>
+
+<div style="display: inline_block">
+  <div style="display: inline_block"><br>
+    <img align="center" alt="Ana-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img align="center" alt="Ana-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img align="center" alt="Ana-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align="center" alt="Ana-Java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"/>
+    <img align="center" alt="Ana-postgreeSQL" height="40" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
+    <img align="center" alt="Ana-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+    <img align="center" alt="Ana-C" height="40" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" />
+  </div>
+   <img style="display: inline_block" height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnaJuliaMM&theme=blue-green">
+  
 </div>
 
 ## 📲Contact me
