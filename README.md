@@ -25,7 +25,7 @@
   <img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnaJuliaMM&theme=blue-green">
 </div>
 
-<div style="display: inline_block">
+<div style="display: flex">
   <div style="display: inline_block"><br>
     <img align="center" alt="Ana-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="Ana-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -35,9 +35,20 @@
     <img align="center" alt="Ana-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     <img align="center" alt="Ana-C" height="40" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" />
   </div>
-   <img style="display: inline_block" height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnaJuliaMM&theme=blue-green">
-  
+  <img style="display: inline_block" height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnaJuliaMM&theme=blue-green">
 </div>
+
+<div style="display: flex;">
+  <div style="flex: 50%; padding: 5px;">
+    <!-- Conteúdo do primeiro elemento aqui -->
+    <img src="imagem1.jpg" alt="Imagem 1" width="300">
+  </div>
+  <div style="flex: 50%; padding: 5px;">
+    <!-- Conteúdo do segundo elemento aqui -->
+    <img src="imagem2.jpg" alt="Imagem 2" width="300">
+  </div>
+</div>
+
 
 ## 📲Contact me
 <div> 
